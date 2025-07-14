@@ -139,6 +139,9 @@ Final bootable image includes:
 - `meta-st-stm32mp` → STMicroelectronics BSP
 
 ---
+![WhatsApp Image 2025-07-14 at 11 52 11_7c4028d7](https://github.com/user-attachments/assets/1cae27d4-3a69-43e3-8ef8-4c37b2f60fbf)
+![WhatsApp Image 2025-07-14 at 11 52 11_7c4028d7](https://github.com/user-attachments/assets/f36cb1e4-7b6e-4b51-9ab1-62863a47a473)
+
 
 ## Yocto Project Architecture
 
