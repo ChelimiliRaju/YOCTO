@@ -1,6 +1,6 @@
 # Yocto Project Overview
 
-## What is Yocto?
+## What is Yocto? 
 
 The **Yocto Project** is an open-source collaboration project that provides tools and templates for building custom Linux-based systems for embedded products, regardless of the hardware architecture.
 
